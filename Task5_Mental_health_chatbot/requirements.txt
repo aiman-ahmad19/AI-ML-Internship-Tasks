@@ -1,0 +1,10 @@
+transformers
+datasets
+torch
+streamlit
+pandas
+matplotlib
+seaborn
+tqdm
+ipywidgets
+accelerate
